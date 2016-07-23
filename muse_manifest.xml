@@ -1,0 +1,96 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="www.waima.co" resolutions="1x" timestamp="1446737719918">
+  <folder name="css">
+    <file name="site_global.css" crc="4253956311"/>
+    <file name="nosotros.css" crc="146062089" ref="nosotros"/>
+    <file name="contacto.css" crc="445731825" ref="contacto"/>
+    <file name="productos.css" crc="3871033171" ref="productos"/>
+    <file name="index.css" crc="4222838737" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:nosotros:productos:contacto"/>
+    <file name="museutils.js" crc="183364071" ref="index:nosotros:productos:contacto"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:nosotros:productos:contacto"/>
+    <file name="webpro.js" crc="3803554875" ref="index:productos:contacto"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index:productos"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index:productos"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index:productos"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:nosotros:contacto"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:nosotros:productos:contacto"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:nosotros:productos:contacto"/>
+    <file name="pie.js" crc="3827607177" ref="productos:contacto"/>
+    <file name="form_check.php" crc="437936672" ref="contacto"/>
+    <file name="form_process.php" crc="4261938016" ref="contacto"/>
+    <file name="recaptchalib.php" crc="385583985" ref="contacto"/>
+    <file name="form-u7704.php" crc="3984855992" ref="contacto"/>
+  </folder>
+  <folder name="images">
+    <file name="waima-logo.png" crc="377602848" seo="true" ref="index:nosotros:productos:contacto"/>
+    <file name="facebook.png" crc="4213828330" ref="index:nosotros:productos:contacto"/>
+    <file name="1.jpg" crc="4026728559" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:productos"/>
+    <file name="3.jpg" crc="181146813" seo="true" ref="index"/>
+    <file name="6.jpg" crc="3872224856" seo="true" ref="index"/>
+    <file name="7.jpg" crc="345766788" seo="true" ref="index"/>
+    <file name="8.jpg" crc="4047989046" seo="true" ref="index"/>
+    <file name="13.jpg" crc="3979540493" seo="true" ref="index"/>
+    <file name="14.jpg" crc="102100103" seo="true" ref="index"/>
+    <file name="20.jpg" crc="443934828" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:productos"/>
+    <file name="12.jpg" crc="3941704401" ref="index:nosotros"/>
+    <file name="22.jpg" crc="3995003194" ref="index:nosotros"/>
+    <file name="41.jpg" crc="3862184089" ref="index:nosotros"/>
+    <file name="42.jpg" crc="4124578281" seo="true" ref="productos"/>
+    <file name="43.jpg" crc="3760640707" seo="true" ref="productos"/>
+    <file name="44.jpg" crc="4008808150" seo="true" ref="productos"/>
+    <file name="45.jpg" crc="4274736062" seo="true" ref="productos"/>
+    <file name="45-.jpg" crc="139909048" seo="true" ref="productos"/>
+    <file name="119.jpg" crc="4017245398" seo="true" ref="productos"/>
+    <file name="123.jpg" crc="3816595988" seo="true" ref="productos"/>
+    <file name="129.jpg" crc="336168286" seo="true" ref="productos"/>
+    <file name="131.jpg" crc="3939621055" seo="true" ref="productos"/>
+    <file name="144.jpg" crc="4274736062" seo="true" ref="productos"/>
+    <file name="146.jpg" crc="139909048" seo="true" ref="productos"/>
+    <file name="10380270_422488087907867_2887352353905332323_n.jpg" crc="249002933" seo="true" ref="productos"/>
+    <file name="10487378_422486777907998_5822970196503456329_n.jpg" crc="4233894804" seo="true" ref="productos"/>
+    <file name="10926198_422487607907915_5776715083743338199_n.jpg" crc="3834048329" seo="true" ref="productos"/>
+    <file name="p1020516.jpg" crc="115747235" seo="true" ref="productos"/>
+    <file name="p1020518.jpg" crc="3788093559" seo="true" ref="productos"/>
+    <file name="42163x136.jpg" crc="4208973128" seo="true" ref="productos"/>
+    <file name="43160x136.jpg" crc="67272694" seo="true" ref="productos"/>
+    <file name="44168x136.jpg" crc="4171474076" seo="true" ref="productos"/>
+    <file name="10380270_422488087907867_2887352353905332323_n-crop-u1985.jpg" crc="4047936540" ref="productos"/>
+    <file name="10487378_422486777907998_5822970196503456329_n192x136.jpg" crc="4125565530" seo="true" ref="productos"/>
+    <file name="10926198_422487607907915_5776715083743338199_n-crop-u2003.jpg" crc="172676908" ref="productos"/>
+    <file name="p1020516-crop-u2012.jpg" crc="205977385" ref="productos"/>
+    <file name="p1020518-crop-u2021.jpg" crc="262950183" ref="productos"/>
+    <file name="user.png" crc="157352954" ref="contacto"/>
+    <file name="email.png" crc="3760545500" ref="contacto"/>
+    <file name="message.png" crc="3987699486" ref="contacto"/>
+    <file name="phone.png" crc="3861642874" ref="contacto"/>
+    <file name="u7710-17.png" crc="364947606" ref="contacto"/>
+    <file name="u7710-17-r.png" crc="60186033" ref="contacto"/>
+    <file name="u7710-17-m.png" crc="60186033" ref="contacto"/>
+    <file name="u7710-17-fs.png" crc="364947606" ref="contacto"/>
+    <file name="recaptchamodeaudio.png" crc="140711744" ref="contacto"/>
+    <file name="recaptchamodeaudiorollover.jpg" crc="4012741543" ref="contacto"/>
+    <file name="recaptchamodeaudiomousedown.jpg" crc="169475968" ref="contacto"/>
+    <file name="recaptchamodeimage.png" crc="3933454017" ref="contacto"/>
+    <file name="recaptchamodeimagerollover.jpg" crc="81540066" ref="contacto"/>
+    <file name="recaptchamodeimagemousedown.jpg" crc="303121703" ref="contacto"/>
+    <file name="recaptcharefresh.png" crc="249852327" ref="contacto"/>
+    <file name="recaptcharefreshrollover.jpg" crc="155564821" ref="contacto"/>
+    <file name="recaptcharefreshmousedown.jpg" crc="4225227046" ref="contacto"/>
+    <file name="recaptchahelp.png" crc="503944989" ref="contacto"/>
+    <file name="recaptchahelprollover.jpg" crc="3948161619" ref="contacto"/>
+    <file name="recaptchahelpmousedown.jpg" crc="47105717" ref="contacto"/>
+    <file name="footericon03.png" crc="188072960" ref="contacto"/>
+    <file name="footericon02.png" crc="4157289281" ref="contacto"/>
+    <file name="12113358_522858717870803_6117378611773599734_o.jpg" crc="3797823240" seo="true" ref="index"/>
+    <file name="12132613_522858027870872_5812956762941438570_o.jpg" crc="251702188" seo="true" ref="index"/>
+    <file name="12140069_522859181204090_44269963080984214_o.jpg" crc="3923052040" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="42353745" seo="true" mt="1445126443377" redirect="true"/>
+  <file name="nosotros.html" crc="4120869476" seo="true" mt="1444427464488" redirect="true"/>
+  <file name="productos.html" crc="4263104571" seo="true" mt="1444427601788" redirect="true"/>
+  <file name="contacto.html" crc="360394346" seo="true" mt="1446737693303" redirect="true"/>
+</manifest>
